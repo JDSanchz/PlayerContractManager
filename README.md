@@ -1,34 +1,22 @@
 # Overview
+This is a C++ Project. The program will be able to become your club management tool of choice. It has many functionalities; list of players, list of players under 23, contract renewal, changes the status of a player for the coming transfer market, and the most important of all the contract generator that will allow you to create and save the contract of every player you decided to renew. 
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-
-[Software Demo Video](https://youtu.be/Quj6t11IElA)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Quj6t11IElA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## [Software Demo Video](https://youtu.be/Quj6t11IElA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+- Visual Studio Community
+- C# 
+- fstring (Read and Write Files)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [CodeBeauty](https://youtu.be/EaHFhms_Shw)
+- [CPlusPlus](https://cplusplus.com/reference/list/list/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/constructors-c/?ref=lbp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Database Connection to save classes/ Serialization
+- GUI
+- Email Contract Option
